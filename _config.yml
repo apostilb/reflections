@@ -1,0 +1,37 @@
+# Dependencies
+markdown:               kramdown
+redcarpet:
+  extensions: ["footnotes", "tables"]
+highlighter:            rouge
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:              pretty
+
+# Setup
+title:                  'apostilb: reflections'
+tagline:                'marginal illuminations on science'
+description:            'An exercise in communicating science results, by <a href="https://twitter.com/neuroamanda">@neuroamanda</a> and <a href="https://twitter.com/RaoOfPhysics">@RaoOfPhysics</a>'
+url:                    https://apostilb.github.io/reflections
+baseurl:                /
+paginate:               5
+
+# About/contact
+author:
+  name:                 'Amanda Alvarez and Achintya Rao'
+  url:                  https://github.com/apostilb
+
+twitter:                https://twitter.com
+
+github:
+  repo:                 https://github.com/apostilb/reflections
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics:       UA-61601210-1
+
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE.md
+    - README.md
