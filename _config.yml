@@ -15,7 +15,7 @@ title:                  'apostilb: reflections'
 tagline:                'marginal illuminations on science'
 description:            'An exercise in communicating science results, by <a href="https://twitter.com/neuroamanda">@neuroamanda</a> and <a href="https://twitter.com/RaoOfPhysics">@RaoOfPhysics</a>'
 url:                    https://apostilb.github.io/reflections
-baseurl:                /
+baseurl:                /reflections/
 paginate:               5
 
 # About/contact
