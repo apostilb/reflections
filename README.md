@@ -7,7 +7,7 @@ This is an exercise for us to extend those bounds and summarize interesting scie
 Periodically, we will post a new piece about recent research (less than five years old) that hasn't been covered widely in other outlets.
 Sometimes we might also write about popular science topics.
 
-This is the repository for **apostilb: reflections**. The main repo can be found at [apostilb/apostilb.github.io](https://github.com/apostilb/apostilb.github.io).
+This is the repository for [**apostilb: reflections**](http://apostilb.github.io/reflections/), our meta-blog about science communication, journalism, research and everything in between. The main repo can be found at [apostilb/apostilb.github.io](https://github.com/apostilb/apostilb.github.io).
 
 Read more on the [about page](http://apostilb.github.io/about/).
 
