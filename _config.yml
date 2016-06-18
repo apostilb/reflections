@@ -1,9 +1,9 @@
 # Dependencies
 markdown:               kramdown
 redcarpet:
-  extensions: ["footnotes", "tables"]
+  extensions:           ["footnotes", "tables"]
 highlighter:            rouge
-gems:                    ["jekyll-paginate"]
+gems:                   ["jekyll-paginate"]
 
 # Permalinks
 #
