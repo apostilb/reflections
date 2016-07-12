@@ -1,5 +1,5 @@
 # apostilb: reflections
-## marginal illuminations on science
+## on science, writing and research
 
 [Apostilb](http://apostilb.github.io) is a place for communicating science.
 We ([@neuroamanda](https://twitter.com/neuroamanda) and [@RaoOfPhysics](https://twitter.com/RaoOfPhysics)) are two communicators who work for big science organisations, which sometimes constrains the range of things we can write about.
